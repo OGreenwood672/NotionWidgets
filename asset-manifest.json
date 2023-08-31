@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NotionWidgets/static/css/main.10746167.css",
-    "main.js": "/NotionWidgets/static/js/main.3c654285.js",
+    "main.js": "/NotionWidgets/static/js/main.7f289556.js",
     "index.html": "/NotionWidgets/index.html",
     "main.10746167.css.map": "/NotionWidgets/static/css/main.10746167.css.map",
-    "main.3c654285.js.map": "/NotionWidgets/static/js/main.3c654285.js.map"
+    "main.7f289556.js.map": "/NotionWidgets/static/js/main.7f289556.js.map"
   },
   "entrypoints": [
     "static/css/main.10746167.css",
-    "static/js/main.3c654285.js"
+    "static/js/main.7f289556.js"
   ]
 }
