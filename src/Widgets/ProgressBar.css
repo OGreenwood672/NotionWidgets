@@ -1,0 +1,16 @@
+
+
+#progressbar {
+    width: 99%;
+    background-color: rgb(75, 74, 74);
+    border-radius: 5px;
+    border: 2px black solid;
+    margin: 35px 0px;
+}
+
+#progress {
+    width: 0%;
+    height: 20px;
+    border-radius: 8px;
+    background-color: rgb(25, 190, 255);
+}
